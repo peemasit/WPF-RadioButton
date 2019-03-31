@@ -1,0 +1,15 @@
+C:\Users\peema\source\repos\WPF-RadioButton\WPF-RadioButton\bin\Debug\WPF-RadioButton.exe.config
+C:\Users\peema\source\repos\WPF-RadioButton\WPF-RadioButton\bin\Debug\WPF-RadioButton.exe
+C:\Users\peema\source\repos\WPF-RadioButton\WPF-RadioButton\bin\Debug\WPF-RadioButton.pdb
+C:\Users\peema\source\repos\WPF-RadioButton\WPF-RadioButton\obj\Debug\WPF-RadioButton.csprojAssemblyReference.cache
+C:\Users\peema\source\repos\WPF-RadioButton\WPF-RadioButton\obj\Debug\MainWindow.g.cs
+C:\Users\peema\source\repos\WPF-RadioButton\WPF-RadioButton\obj\Debug\App.g.cs
+C:\Users\peema\source\repos\WPF-RadioButton\WPF-RadioButton\obj\Debug\WPF-RadioButton_MarkupCompile.cache
+C:\Users\peema\source\repos\WPF-RadioButton\WPF-RadioButton\obj\Debug\WPF-RadioButton_MarkupCompile.lref
+C:\Users\peema\source\repos\WPF-RadioButton\WPF-RadioButton\obj\Debug\MainWindow.baml
+C:\Users\peema\source\repos\WPF-RadioButton\WPF-RadioButton\obj\Debug\WPF-RadioButton.g.resources
+C:\Users\peema\source\repos\WPF-RadioButton\WPF-RadioButton\obj\Debug\WPF_RadioButton.Properties.Resources.resources
+C:\Users\peema\source\repos\WPF-RadioButton\WPF-RadioButton\obj\Debug\WPF-RadioButton.csproj.GenerateResource.cache
+C:\Users\peema\source\repos\WPF-RadioButton\WPF-RadioButton\obj\Debug\WPF-RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\peema\source\repos\WPF-RadioButton\WPF-RadioButton\obj\Debug\WPF-RadioButton.exe
+C:\Users\peema\source\repos\WPF-RadioButton\WPF-RadioButton\obj\Debug\WPF-RadioButton.pdb
